@@ -1,0 +1,26 @@
+
+h3{
+	background-color: #f2f2f2;
+	padding: 10px;
+	color: black;
+}
+
+li.nav-item{
+	padding-top: 5%;
+}
+
+.active a{
+	background-color: #5CB85C;
+}
+
+div.row{
+	margin: 5% 5%;
+}
+
+
+body {
+    background: url(https://i.pinimg.com/originals/49/da/7d/49da7d8efab607e46a080cc5356509ea.jpg) no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-attachment: fixed; 
+}
